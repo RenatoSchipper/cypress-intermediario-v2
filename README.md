@@ -1,10 +1,6 @@
 # Testes automatizados com Cypress - Intermediário
 
-👋 Seja bem-vinda(o)!
-
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
-
-## O que você vai aprender
+## O que aprendi com o curso de Cypress
 
 Durante o curso de testes automatizados com Cypress (intermediário) você vai aprender:
 
